@@ -132,3 +132,34 @@ $ gist REPORT.md
 ```
 Copyright (c) 2015-2021 The ISC Authors
 ```
+
+Решение на MacOs
+
+1. <img width="1002" alt="изображение" src="https://user-images.githubusercontent.com/92848880/221350801-936789ac-2f6c-45e8-a6ce-36b6c91d1358.png">
+
+2. -v показывает какие команды делает
+   -х записывает на диск с архива / если файл с таким же именем то записывает более новую версию
+   -f читает или записывает архив в специализированный файл
+   <img width="462" alt="изображение" src="https://user-images.githubusercontent.com/92848880/221351229-2294881f-6a22-415d-b477-dd9575496bdd.png">
+
+
+3. <img width="400" alt="изображение" src="https://user-images.githubusercontent.com/92848880/221351546-9f14d3cd-9eb3-4ee8-a59e-a89b0c94b961.png">
+-а считает скрытые директории
+
+4.<img width="305" alt="изображение" src="https://user-images.githubusercontent.com/92848880/221351652-d8f3c53c-a41d-4a16-88d3-1a867e1d75ee.png">
+
+5. <img width="471" alt="изображение" src="https://user-images.githubusercontent.com/92848880/221351936-2a868f48-dee4-4740-a16c-3ab2a2945da1.png">
+
+6. <img width="591" alt="изображение" src="https://user-images.githubusercontent.com/92848880/221352048-b2485873-318c-4753-875c-601d715ee348.png">
+
+7. <img width="1006" alt="изображение" src="https://user-images.githubusercontent.com/92848880/221352272-e810997e-6353-4762-825c-0d55026b6124.png">
+
+8. <img width="641" alt="изображение" src="https://user-images.githubusercontent.com/92848880/221352413-b3512a8f-ad98-4d54-8934-998f24140dc1.png">
+
+
+9. <img width="758" alt="изображение" src="https://user-images.githubusercontent.com/92848880/221352571-afb84581-549e-44ec-b30c-e0ac39743792.png">
+
+10. <img width="842" alt="изображение" src="https://user-images.githubusercontent.com/92848880/221352866-0d8c630b-8628-4364-8972-13fa5b4edb77.png">
+Ввелась команда ncdu в папке /boost-libs
+
+11. <img width="645" alt="изображение" src="https://user-images.githubusercontent.com/92848880/221353035-361d7482-b2dc-4089-8ff9-7332c4bc8eef.png">
